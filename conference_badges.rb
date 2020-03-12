@@ -1,3 +1,8 @@
+#badge_maker
+#batch_badge_creator
+#assign_rooms
+#printer
+
 def badge_maker(name)
   return "hello my name is #{name}."
 end
